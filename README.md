@@ -1,13 +1,4 @@
-<div align="center">
-
-<img src="assets/banner.png" width="100%" alt="Web-slinger coding at his desk (pixel art)"/>
-
-<h1>HARSH MHATRE</h1>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=With+great+data...+comes+great+insights+%F0%9F%95%B7%EF%B8%8F;Data+Analytics+%40+Dun+%26+Bradstreet;Python+%7C+SQL+%7C+Power+BI+%7C+Flask;Catching+bugs+in+my+web+%F0%9F%95%B8%EF%B8%8F" alt="Typing SVG" />
-</a>
-
+https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=3000&pause=1000&color=E62429&center=true&vCenter=true&width=750&height=100&lines=WITH+GREAT+DATA...+COMES+GREAT+INSIGHTS;DATA+ANALYTICS+%40+DUN+%26+BRADSTREET;PYTHON+%7C+SQL+%7C+POWER+BI+%7C+FLASK;CATCHING+BUGS+IN+MY+WEB
 <br/><br/>
 
 ![SGPI](https://img.shields.io/badge/SGPI-9.71%2F10-E62429?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0F4C9C)
@@ -16,11 +7,7 @@
 ![Now](https://img.shields.io/badge/NOW-DATA%20ANALYTICS%20%40%20DUN%20%26%20BRADSTREET-0F4C9C?style=for-the-badge&labelColor=E62429)
 
 <a href="https://linkedin.com/in/harsh-mhatre-6b9701294"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0F4C9C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E62429"/></a>
-<a href="mailto:mhatreharsh691@gmail.com"><img src="https://img.shields.io/badge/EMAIL-WEB%20ME%20UP-E62429?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F4C9C"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=HASHCODE-37&label=WEB%20VISITS&color=E62429&style=for-the-badge" />
-
-</div>
+<a href="mailto:mhatreharsh691@gmail.com"><img src="https://img.shields.io/badge/EMAIL-WEB%20ME%20UP-E62429?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F4C9C"/><
 
 ---
 
